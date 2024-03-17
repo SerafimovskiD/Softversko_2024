@@ -1,1 +1,4 @@
 "This is LICENSE.md" 
+"Copyright (c) 2024" 
+"..." 
+"Permission is hereby grated, free of charge, to any person obtaining a copy " 
